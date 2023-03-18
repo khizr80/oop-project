@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\temp\x64\Debug\temp.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\temp\x64\Debug\temp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\temp\x64\Debug\temp.MyForm.resources
+C:\Users\DELL\Desktop\temp\x64\Debug\temp.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\temp\x64\Debug\temp.exe

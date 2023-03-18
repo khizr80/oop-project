@@ -1,0 +1,9 @@
+﻿  Program.cpp
+C:\Users\DELL\Desktop\temp\MyForm.h(1102,22): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\Desktop\temp\MyForm.h(1173,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\DELL\Desktop\temp\MyForm.h(1216,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\DELL\Desktop\temp\MyForm.h(1310,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\DELL\Desktop\temp\MyForm.h(1336,20): warning C4101: 'e': unreferenced local variable
+C:\Users\DELL\Desktop\temp\Program.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Program.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  temp.vcxproj -> C:\Users\DELL\Desktop\temp\x64\Debug\temp.exe
